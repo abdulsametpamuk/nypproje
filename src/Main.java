@@ -8,5 +8,7 @@ public class Main {
         System.out.println("burası emirhan tarafından değiştirldi ");
         System.out.println("aa Proje");
 
+        System.out.println("deneme işlem");
+
     }
 }

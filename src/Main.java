@@ -10,5 +10,7 @@ public class Main {
         System.out.println("yaptığımız değişkiliği main de çekmek istediğimizde git pull " +
                 "kendi branchmızda yapmak istediğimizde ise git merge main (bu main deki değişkilkleri bize getirir)" +
                 "ilk önce takım arkadaşının yaptığı değişkleri main çekiyosun ardından kendi branch çekiyorsun");
+
+         System.out.println("hahahah");
     }
 }

@@ -12,5 +12,7 @@ public class Main {
                 "ilk önce takım arkadaşının yaptığı değişkleri main çekiyosun ardından kendi branch çekiyorsun");
 
          System.out.println("hahahah");
+
+         System.out.println("main");
     }
 }

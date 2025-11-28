@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -11,8 +13,10 @@ public class Main {
                 "kendi branchmızda yapmak istediğimizde ise git merge main (bu main deki değişkilkleri bize getirir)" +
                 "ilk önce takım arkadaşının yaptığı değişkleri main çekiyosun ardından kendi branch çekiyorsun");
 
-         System.out.println("hahahah");
+        System.out.println("hahahah");
 
-         System.out.println("main");
+        System.out.println("main");
+        System.out.println("Samet deneme 1");
+        System.out.println("Samet deneme 2");
     }
 }

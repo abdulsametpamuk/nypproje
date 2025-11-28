@@ -19,5 +19,6 @@ public class Main {
         System.out.println("Samet deneme 1");
         System.out.println("Samet deneme 2");
         System.out.println("Samet deneme 3 github");
+        System.out.println("Samet deneme 4");
     }
 }
